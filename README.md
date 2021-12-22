@@ -1,4 +1,5 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+<h1 align='center'> Hi! :wave:</h1>
 
 <!--
 **nittinsharma37/nittinsharma37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
