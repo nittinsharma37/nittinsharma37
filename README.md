@@ -1,84 +1,96 @@
-<!-- ### Hi there 👋 -->
-<!-- <h1 align='center'> Hi! :wave:</h1> -->
+<!-- Your GitHub Profile Title -->
+# Hi there! 👋 I'm [Nittin Sharma]()!
 
-<!-- # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
+<!-- Your GitHub Profile Description -->
+## 👨🏻‍💻 About Me
 
-<!--
-**nittinsharma37/nittinsharma37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning and exploring new technologies.
+- 💼 Working as a [Full Stack Developer](https://cha-chi.in/).
+- 🎓 Graduated in [BCA(Bachelors in Computer Applications](https://www.jammuuniversity.ac.in/).
+- 💡 Pursuing my interests in Computer Science, Mobile developemt, Web developemt, system design, Ai, Ml, Iot, and Designing.
+- 📫 Reach me at: [nittinsharma37@gmail.com](mailto:nittinsharma37@gmail.com)
+- 😄 Pronouns: He/Him
 
-Here are some ideas to get you started:
+<!-- Badges -->
+## 🛠 Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Replace icons and links with the technologies you use -->
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![EJS](https://img.shields.io/badge/-EJS-000000?style=flat&logo=ejs&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-ff0000?style=flat&logo=api)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
+![CocoaPods](https://img.shields.io/badge/-CocoaPods-EE3322?style=flat&logo=cocoapods&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![OneSignal](https://img.shields.io/badge/-OneSignal-0088CC?style=flat&logo=onesignal&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-%23FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-%23FF9900?style=flat&logo=amazon-ec2&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-%23FF9900?style=flat&logo=amazon-s3&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-%23FF9900?style=flat&logo=amazon-rds&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4?style=flat&logo=google-cloud&logoColor=white)
+![Compute Engine](https://img.shields.io/badge/Compute%20Engine-%234285F4?style=flat&logo=google-cloud&logoColor=white)
+![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-%234285F4?style=flat&logo=google-cloud&logoColor=white)
+![Cloud SQL](https://img.shields.io/badge/Cloud%20SQL-%234285F4?style=flat&logo=google-cloud&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-%234285F4?style=flat&logo=google-cloud&logoColor=white)
+![ML Engine](https://img.shields.io/badge/ML%20Engine-%234285F4?style=flat&logo=google-cloud&logoColor=white)
+![Cloud Functions](https://img.shields.io/badge/Cloud%20Functions-%234285F4?style=flat&logo=google-cloud&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
+![Droplets](https://img.shields.io/badge/Droplets-%230167FF?style=flat&logo=digitalocean&logoColor=white)
+![Spaces](https://img.shields.io/badge/Spaces-%230167FF?style=flat&logo=digitalocean&logoColor=white)
+![Managed Databases](https://img.shields.io/badge/Managed%20Databases-%230167FF?style=flat&logo=digitalocean&logoColor=white)
+![Load Balancers](https://img.shields.io/badge/Load%20Balancers-%230167FF?style=flat&logo=digitalocean&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5?style=flat&logo=github%20actions&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23181717?style=flat&logo=gitlab&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 
-<h2> Hey there! I'm Nittin. :wave:</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studied Computer Science at University of Jammu.
-- 💼 &nbsp; Working as a Flutter developer at Am Tech networks.
-- 🌱 &nbsp; Learning more about Mobile Development(Flutter), Web development(Mern Stack), UI/Ux design and Cloud.
-- ✍️ &nbsp; Pursuing Graphic Design, web development, Mobile Development as hobbies/side hustles.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<!-- GitHub Stats -->
+## 📈 GitHub Stats
 
-- 💻 &nbsp;
-  ![Flutter](https://img.icons8.com/fluency/48/000000/flutter.png)
-  ![Dart](https://img.icons8.com/color/50/000000/dart.png)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![C language](https://img.icons8.com/ios-filled/50/000000/c.png")
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Express](https://img.icons8.com/material-outlined/24/000000/js.png)
-  ![GraphQl](https://img.icons8.com/color/48/000000/graphql.png)
-  ![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  
-- 🖥 &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Figma](https://img.icons8.com/color/50/000000/figma.png)
-  ![Adobe XD](https://img.icons8.com/color/48/000000/adobe-xd.png)
-  ![Hitfilm](https://img.icons8.com/color/48/000000/hitfilm-express.png)
-  
- 
+<!-- Replace "nittinsharma37" with your GitHub username -->
+[![Nittin Sharma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nittinsharma37&show_icons=true&hide_title=true&hide=prs&hide_rank=true&hide=stars)](https://github.com/nittinsharma37)
 
-<br/>
 
-<!-- <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
-</a> -->
+<!-- Replace "Your Username" with your GitHub username -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nittinsharma37&layout=compact&hide_title=true)
 
-<br/>
+<!-- GitHub Activity Graph -->
+## 📊 GitHub Activity Graph
 
-<!-- <h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<!-- Replace "Your Username" with your GitHub username -->
+![Your Username's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nittinsharma37&bg_color=FFFFFF&color=000000&line=000000&point=00FF00)
 
-<p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
-</p> -->
+<!-- Connect with Me -->
+## 🤝 Connect with Me
+
+<!-- Replace the URLs with your social media profiles or personal website -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nittin-sharma-550737154/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nittindeveloper/)
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/nittinsharma37)
+
+<!-- Footer -->
+<!-- Replace "Your Name" with your name -->
+<br>
+<p align="center">Made with ❤️ by <strong>Nittin</strong></p>
