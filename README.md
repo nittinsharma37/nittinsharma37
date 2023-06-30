@@ -67,19 +67,11 @@
 
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
-
-<!-- Replace "nittinsharma37" with your GitHub username -->
-[![Nittin Sharma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nittinsharma37&show_icons=true&hide_title=true&hide=prs&hide_rank=true&hide=stars)](https://github.com/nittinsharma37)
+[![Nittin Sharma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nittinsharma37&show_icons=true&hide_title=true&count_private=true&theme=radical)](https://github.com/nittinsharma37)
 
 
-<!-- Replace "Your Username" with your GitHub username -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nittinsharma37&layout=compact&hide_title=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nittinsharma37&layout=compact&theme=radical)](https://github.com/nittinsharma37)
 
-<!-- GitHub Activity Graph -->
-## 📊 GitHub Activity Graph
-
-<!-- Replace "Your Username" with your GitHub username -->
-![Nittin Sharma's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nittinsharma37&bg_color=FFFFFF&color=000000&line=000000&point=00FF00)
 
 <!-- Connect with Me -->
 ## 🤝 Connect with Me
@@ -87,7 +79,6 @@
 <!-- Replace the URLs with your social media profiles or personal website -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nittin-sharma-550737154/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nittindeveloper/)
-
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/nittinsharma37)
 
 <!-- Footer -->
