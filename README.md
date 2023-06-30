@@ -79,7 +79,7 @@
 ## 📊 GitHub Activity Graph
 
 <!-- Replace "Your Username" with your GitHub username -->
-![Your Username's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nittinsharma37&bg_color=FFFFFF&color=000000&line=000000&point=00FF00)
+![Nittin Sharma's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nittinsharma37&bg_color=FFFFFF&color=000000&line=000000&point=00FF00)
 
 <!-- Connect with Me -->
 ## 🤝 Connect with Me
